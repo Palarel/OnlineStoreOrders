@@ -1,0 +1,20 @@
+# Java
+*.class
+out/
+target/
+build/
+
+# Runtime data (can be generated locally)
+data/*.dat
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
