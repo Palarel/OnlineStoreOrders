@@ -18,3 +18,5 @@ data/*.dat
 # OS
 .DS_Store
 Thumbs.db
+
+sources.txt
